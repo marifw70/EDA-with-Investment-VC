@@ -24,7 +24,7 @@ Untuk melakukan Eksplorasi Data Analisis, kita harus melakukan beberapa tahapan,
 
 ### D. Kesimpulan
 
-Dari Riset yang dilakukan
+Dari data yang sudah dianalisa, dapat disimpulkan bahwa:
 
 1. Bioteknologi merupakan sub-kategori dengan pendanaan investor terbanyak
 2. Software merupakan sub-kategori dengan jumlah startup terbanyak

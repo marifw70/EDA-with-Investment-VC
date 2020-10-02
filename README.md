@@ -26,6 +26,6 @@ Untuk melakukan Eksplorasi Data Analisis, kita harus melakukan beberapa tahapan,
 
 Dari Riset yang dilakukan
 
-a. Bioteknologi merupakan sub-kategori dengan pendanaan investor terbanyak
-b. Software merupakan sub-kategori dengan jumlah startup terbanyak
-c. Bulan Januari adalah bulan yang potensial untuk mendapatkan Funding karena dari hasil analisa paling banyak terjadi pemberian funding ada dibulan tersebut
+1. Bioteknologi merupakan sub-kategori dengan pendanaan investor terbanyak
+2. Software merupakan sub-kategori dengan jumlah startup terbanyak
+3. Bulan Januari adalah bulan yang potensial untuk mendapatkan Funding karena dari hasil analisa paling banyak terjadi pemberian funding ada dibulan tersebut
